@@ -1,3 +1,14 @@
+
+Detergent
+Washing powder
+Bar soaps
+Bathing soaps
+Jik
+Fabric softner
+Vim
+Harpic
+Tissue
+Shampoo
 Sugar
 Rice
 Serviettes
@@ -15,3 +26,4 @@ Candy
 Waffles
 Popcorns
 Cake
+
